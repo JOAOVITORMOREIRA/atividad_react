@@ -1,0 +1,16 @@
+
+body{ background-color: white;}
+
+.titulo{
+    text-align: center;
+    color: blueviolet;
+
+}
+
+.imeg{
+    width: 500px;
+    height: 500px;
+    display: block;
+    margin: 0 auto;
+
+}
